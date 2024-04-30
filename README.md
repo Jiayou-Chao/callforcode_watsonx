@@ -82,3 +82,7 @@ To bolster Public Communication and Education efforts, LLaMA 3 will be instrumen
 Finally, our approach centers on Collaboration and Integration across various fields. By merging the capabilities of LLaMA 3 with the data processing power of ADCIRC+SWAN and BOUSS1D, we will break down silos between disciplines. This fusion not only facilitates a seamless exchange of data and ideas among climate scientists, data scientists, and AI experts but also produces multifaceted analyses that can guide comprehensive and cohesive management strategies.
 
 In essence, our team is poised to deliver transformative solutions for New York's coastline flood hazard management, harnessing the synergy of AI and coastal modeling to inform research, guide policy, educate the public, and foster collaboration across disciplines.
+
+## Video Link
+
+[![Watch the video](https://img.youtube.com/vi/1QwUk6J1v1A/maxresdefault.jpg)](https://youtu.be/TjDj1Z2cWSM)
